@@ -3,7 +3,6 @@ It's just my first project .it's just Java console application for tracking and 
 
 
 
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
